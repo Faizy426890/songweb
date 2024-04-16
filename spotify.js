@@ -94,5 +94,5 @@ addPlaylists("div5","https://www.damusichits.com/wp-content/uploads/2023/08/Drak
                   
 document.getElementById("div1").addEventListener("click", function() {
   // Replace "newpage.html" with the URL of the page you want to load
-  window.location.href = "album.html"; 
+  window.location.href = "https://faizy426890.github.io/infoPage/"; 
 } )
